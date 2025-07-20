@@ -1,7 +1,22 @@
 # rm-quest-dsl-framework
 
-This is based on Partys old dsl framework for quests.
+This is based on Partys old DSL framework for tut island.
 
-So much nicer to write than using quest helper classes.
+So much nicer to write than using Quest Helper classes.
 
-15 quests written to show how it would look. Each with varying stages of dsl as it developed.
+Completed Quests:
+/free/BlackKnightsFortress.kt
+/free/CooksAssistant.kt
+/free/DemonSlayer.kt
+/free/DoricsQuest.kt
+/free/ImpCatcher.kt
+/free/PriestInPeril.kt
+/free/RestlessGhost.kt
+/free/RomeoAndJuliet.kt
+/free/SheepShearer.kt
+/members/DruidicRitual.kt
+/members/FightArena.kt
+/members/recruitmentdrive/RecruitmentDrive.kt
+/members/TreeGnomeVillage.kt
+/members/waterfall/Waterfall.kt
+/members/WitchesHouse.kt
